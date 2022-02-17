@@ -3,7 +3,7 @@
 <img align="center" alt="victorparanhos94-msqlserver"  src="https://komarev.com/ghpvc/?username=victorparanhos94&style=flat-square">
 - 👋 Olá, eu sou <strong>Victor Paranhos</strong>  </br>
 - 💻 Sou Estudante de Análise e Desenvolvimento de Sistemas. </br>
-- 👨‍💼 Atualmente trabalho como Técnico de Informática. </br><br>
+- 👨‍💼 Atualmente trabalho como Técnico de Informática. <br><br>
 
 
 <div align="center">
@@ -17,5 +17,3 @@
   <img align="center" alt="victorparanhos94-js"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="victorparanhos94-python"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
  </div>
-    
-<img align="center" src="https://github.com/victorparanhos94/victorparanhos94/blob/output/github-contribution-grid-snake.gif">
