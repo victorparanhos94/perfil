@@ -1,9 +1,13 @@
-# Futuro Programador
+# 👨🏻‍💻 Futuro Programador
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/victorparanhos94)](https://github.com/victorparanhos94)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorparanhos94/)](https://www.linkedin.com/in/victorparanhos94/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorparanhos1234@gmail.com)](mailto:victorparanhos1234@gmail.com)
 
 <img align="center" alt="victorparanhos94-msqlserver"  src="https://komarev.com/ghpvc/?username=victorparanhos94&style=flat-square">
-- 👋 Olá, eu sou <strong>Victor Paranhos</strong>  </br>
+- 👋🏻 Olá, eu sou <strong>Victor Paranhos</strong>  </br>
 - 🎓 Sou Estudante de Análise e Desenvolvimento de Sistemas. </br>
-- 👨‍💼 Atualmente trabalho como Técnico de Informática. <br><br>
+- 👨🏻‍💼 Atualmente trabalho como Técnico de Informática. <br><br>
 
 
 <div align="center">
