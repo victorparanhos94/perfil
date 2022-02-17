@@ -2,7 +2,7 @@
 
 <img align="center" alt="victorparanhos94-msqlserver"  src="https://komarev.com/ghpvc/?username=victorparanhos94&style=flat-square">
 - 👋 Olá, eu sou <strong>Victor Paranhos</strong>  </br>
-- 💻 Sou Estudante de Análise e Desenvolvimento de Sistemas. </br>
+- 🎓 Sou Estudante de Análise e Desenvolvimento de Sistemas. </br>
 - 👨‍💼 Atualmente trabalho como Técnico de Informática. <br><br>
 
 
