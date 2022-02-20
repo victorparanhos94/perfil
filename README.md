@@ -5,9 +5,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorparanhos1234@gmail.com)](mailto:victorparanhos1234@gmail.com)
 <img alt="victorparanhos94" src="https://komarev.com/ghpvc/?username=victorparanhos94&style=flat-square">
 
-• 👋🏻 Olá, eu sou <strong>Victor Paranhos</strong>  </br>
+• :raising_hand_man: Olá, eu sou <strong>Victor Paranhos</strong>  </br>
 • 🎓 Sou Estudante de Análise e Desenvolvimento de Sistemas. </br>
-• 👨🏻‍💼 Atualmente trabalho como Técnico de Informática. <br><br>
+• Atualmente trabalho como Técnico de Informática. <br><br>
 
 
 <div align="center">
