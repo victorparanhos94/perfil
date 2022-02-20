@@ -7,7 +7,7 @@
 
 • :raising_hand_man: Olá, eu sou <strong>Victor Paranhos</strong>  </br>
 • 🎓 Sou Estudante de Análise e Desenvolvimento de Sistemas. </br>
-• Atualmente trabalho como Técnico de Informática. <br><br>
+• :briefcase: Atualmente trabalho como Técnico de Informática. <br><br>
 
 
 <div align="center">
