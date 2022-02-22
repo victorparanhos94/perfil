@@ -1,4 +1,4 @@
-# :computer: Futuro Programador
+# 👨🏻‍💻 Futuro Programador
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/victorparanhosdev)](https://github.com/victorparanhosdev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorparanhos94/)](https://www.linkedin.com/in/victorparanhos94/)
@@ -7,12 +7,12 @@
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5575991258651)](https://api.whatsapp.com/send?phone=5575991258651)
 <img alt="victorparanhosdev" src="https://komarev.com/ghpvc/?username=victorparanhosdev&style=flat-square">
 
-• :raising_hand_man: Olá, eu sou <strong>Victor Paranhos</strong>  </br>
+• 👨🏻‍💻 Olá, eu sou <strong>Victor Paranhos</strong>!  </br>
 • 🎓 Sou Estudante de Análise e Desenvolvimento de Sistemas. </br>
 • :briefcase: Atualmente trabalho como Técnico de Informática. <br><br>
 
 
-<div style="display: flex" align="center">
+<div align="center">
   <a href="https://github.com/victorparanhosdev">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=victorparanhosdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorparanhosdev&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
