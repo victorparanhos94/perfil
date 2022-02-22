@@ -12,10 +12,11 @@
 • :briefcase: Atualmente trabalho como Técnico de Informática. <br><br>
 
 
-<div align="center">
+<div>
   <a href="https://github.com/victorparanhosdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorparanhosdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorparanhosdev&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
+</div>
    
 <div style="display: inline_block"><br>
   <img align="center" alt="victorparanhosdev-htm5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
