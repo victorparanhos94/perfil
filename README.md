@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Futuro Programador
+# :computer: Futuro Programador
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/victorparanhosdev)](https://github.com/victorparanhosdev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorparanhos94/)](https://www.linkedin.com/in/victorparanhos94/)
@@ -7,7 +7,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5575991258651)](https://api.whatsapp.com/send?phone=5575991258651)
 <img alt="victorparanhosdev" src="https://komarev.com/ghpvc/?username=victorparanhosdev&style=flat-square">
 
-• 👨🏻‍💻 Olá, eu sou <strong>Victor Paranhos</strong>!  </br>
+• :boy::computer: Olá, eu sou <strong>Victor Paranhos</strong>!  </br>
 • 🎓 Sou Estudante de Análise e Desenvolvimento de Sistemas. </br>
 • :briefcase: Atualmente trabalho como Técnico de Informática. <br><br>
 
