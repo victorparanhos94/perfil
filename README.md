@@ -5,7 +5,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorparanhos1234@gmail.com)](mailto:victorparanhos1234@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/victorparanhos_94/)](https://www.instagram.com/victorparanhos_94/)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5575991258651)](https://api.whatsapp.com/send?phone=5575991258651)
-<img alt="victorparanhosdev" src="https://komarev.com/ghpvc/?username=victorparanhosdev&style=flat-square">
 
 • :boy::computer: Olá, eu sou <strong>Victor Paranhos</strong>!  </br>
 • 🎓 Sou Estudante de Análise e Desenvolvimento de Sistemas. </br>
