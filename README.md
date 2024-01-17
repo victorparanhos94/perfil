@@ -10,16 +10,17 @@
 • 🎓 Sou Estudante de Análise e Desenvolvimento de Sistemas. </br>
 • :briefcase: Atualmente trabalho como Técnico de Informática. <br><br>
 
+**🚀 Accesse meu [Portfolio](https://portfolio-alpha-blue-54.vercel.app/)**
 
 <div align="center">
   <a href="https://github.com/victorparanhosdev">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=victorparanhosdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorparanhosdev&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
 </div>
-   
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="victorparanhosdev-htm5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="victorparanhosdev-css3"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="victorparanhosdev-js"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="victorparanhosdev-python"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
- </div>
+
+---
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,py,sqlite,git" />
+  </a>
+</p>
