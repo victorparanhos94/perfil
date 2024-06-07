@@ -8,7 +8,7 @@
 
 • :boy::computer: Olá, eu sou <strong>Victor Paranhos</strong>!  </br>
 • 🎓 Sou Estudante de Análise e Desenvolvimento de Sistemas. </br>
-• :briefcase: Atualmente trabalho como Técnico de Informática e Suporte Técnico ao Cliente. <br><br>
+• :briefcase: Atualmente trabalho como Desenvolvedor jr. <br><br>
 
 **🚀 Accesse meu [Portfolio](https://portfolio-alpha-blue-54.vercel.app/)**
 
@@ -21,6 +21,6 @@
 ---
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,py,sqlite,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,java,py,sqlite,git" />
   </a>
 </p>
