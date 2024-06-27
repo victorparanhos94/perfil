@@ -7,7 +7,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5575991258651)](https://api.whatsapp.com/send?phone=5575991258651)
 
 • :boy::computer: Olá, eu sou <strong>Victor Paranhos</strong>!  </br>
-• 🎓 Sou Estudante de Análise e Desenvolvimento de Sistemas. </br>
+• 🎓 Graduado em Análise e Desenvolvimento de Sistemas. </br>
 • :briefcase: Atualmente trabalho como Desenvolvedor jr. <br><br>
 
 **🚀 Accesse meu [Portfolio](https://portfolio-alpha-blue-54.vercel.app/)**
