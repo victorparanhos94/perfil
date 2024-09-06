@@ -10,7 +10,7 @@
 • 🎓 Graduado em Análise e Desenvolvimento de Sistemas. </br>
 • :briefcase: Atualmente trabalho como Desenvolvedor jr. <br><br>
 
-**🚀 Accesse meu [Portfolio](https://portfolio-alpha-blue-54.vercel.app/)**
+**🚀 Accesse meu [Portfolio](https://victorparanhos.vercel.app/)**
 
 <div align="center">
   <a href="https://github.com/victorparanhosdev">
